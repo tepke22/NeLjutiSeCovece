@@ -1,5 +1,7 @@
 # NeLjutiSeCovece
 
+**Eclipse project*
+
 Društvena igra Ne ljuti se čoveče izradjena u Java programskom jeziku nastala kao završni projekat za predmet Objektno orijentisano programiranje.
 
 ___________________________________________________________________________________________________________________________________
